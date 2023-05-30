@@ -3,6 +3,6 @@ streamlit
 streamlit-lottie
 Pillow
 pytube
-googleapiclient
+google-api-python-client
 pytube
 flask
