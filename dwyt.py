@@ -40,7 +40,7 @@ def load_lottieurl(url):
         return None
     return r.json()
 
-local_css("/content/drive/MyDrive/CP/style/style.css")
+local_css("style/style.css")
 
 animate_image = load_lottieurl("https://assets3.lottiefiles.com/packages/lf20_szdrhwiq.json")
 
