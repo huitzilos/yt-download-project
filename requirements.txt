@@ -1,0 +1,8 @@
+requests
+streamlit
+streamlit-lottie
+PIL
+pytube
+googleapiclient.discovery
+pytube
+flask
